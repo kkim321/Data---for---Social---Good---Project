@@ -20,8 +20,8 @@ Use your knowledge of object-oriented programming, one-dimensional (1D) arrays, 
 Include your User Story you analyzed for your project here. Your User Story should have the following format: 
 
 > As an [animal shelter employee], <br> 
-> I want to [analyze different breeds, age, color, size, weight, health conditons, and adoption fee from a dog], <br> 
-> so that I can [find our furry friends homes, based off the desires of possible adopters]. 
+> I want to [identify a dog that possible owners want to adopt that fit their desires], <br> 
+> so that I can [place them in proper homes]. 
 
 ## Dataset 
 
